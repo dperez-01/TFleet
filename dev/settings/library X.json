@@ -1,0 +1,38 @@
+{
+    "S": {
+        "Reserva": {
+            "extensible": false,
+            "autolocation": true,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": 4.0,
+            "start": null,
+            "end": null,
+            "origin": "",
+            "destiny": "",
+            "color": "#68d976",
+            "autopush": "\u2192",
+            "name": "Reserva"
+        }
+    },
+    "M": {
+        "asdfghjkl\u00f1": {
+            "extensible": false,
+            "kmlimit": 9999,
+            "departure_time": "8:00",
+            "extra_days_arrival": "",
+            "arrival_time": "9:00",
+            "duration": 8.0,
+            "start": null,
+            "end": null,
+            "autopush": "\u2190"
+        }
+    },
+    "T": {}
+}

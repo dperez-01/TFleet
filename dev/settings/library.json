@@ -1,0 +1,280 @@
+{
+    "S": {
+        "CORRECTIVO BTREN": {
+            "extensible": true,
+            "autolocation": true,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": "",
+            "start": null,
+            "end": null,
+            "origin": "",
+            "destiny": "",
+            "color": "#ffff9f",
+            "name": "CORRECTIVO BTREN",
+            "autopush": "No"
+        },
+        "H1 PREF": {
+            "extensible": true,
+            "autolocation": true,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": "",
+            "start": null,
+            "end": null,
+            "origin": "",
+            "destiny": "",
+            "color": "#6fb7b7",
+            "name": "H1 PREF",
+            "autopush": "No"
+        },
+        "RESERVA ATOCHA": {
+            "extensible": false,
+            "autolocation": true,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "06:00",
+            "extra_days_arrival": "",
+            "arrival_time": "23:59",
+            "duration": "",
+            "start": 6.0,
+            "end": 23.983333333333334,
+            "origin": "",
+            "destiny": "",
+            "color": "#00ffff",
+            "autopush": "No"
+        },
+        "RESERVA C\u00c1DIZ": {
+            "extensible": false,
+            "autolocation": true,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "06:00",
+            "extra_days_arrival": "",
+            "arrival_time": "23:59",
+            "duration": "",
+            "start": 6.0,
+            "end": 23.983333333333334,
+            "origin": "",
+            "destiny": "",
+            "color": "#ffffff",
+            "autopush": "No"
+        },
+        "LAS MATAS": {
+            "extensible": true,
+            "autolocation": true,
+            "km": 23,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": "",
+            "start": null,
+            "end": null,
+            "origin": "CHAMARTIN",
+            "destiny": "LAS MATAS",
+            "color": "#808000",
+            "autopush": "No"
+        },
+        "CAMBIO RODAL": {
+            "extensible": true,
+            "autolocation": false,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": "",
+            "start": null,
+            "end": null,
+            "origin": "CHAMARTIN",
+            "destiny": "FUENCARRAL",
+            "color": "#ffff00",
+            "autopush": "No"
+        },
+        "LAVADO EXTERIOR": {
+            "extensible": false,
+            "autolocation": false,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": 4.0,
+            "start": null,
+            "end": null,
+            "origin": "CHAMARTIN",
+            "destiny": "CHAMARTIN",
+            "color": "#ffff00",
+            "autopush": "No"
+        },
+        "DCI": {
+            "extensible": false,
+            "autolocation": false,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": 5.0,
+            "start": null,
+            "end": null,
+            "origin": "CHAMARTIN",
+            "destiny": "CHAMARTIN",
+            "color": "#ffff00",
+            "autopush": "No"
+        },
+        "TORNEADO": {
+            "extensible": false,
+            "autolocation": false,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": 8.0,
+            "start": null,
+            "end": null,
+            "origin": "CHAMARTIN",
+            "destiny": "CHAMARTIN",
+            "color": "#ffff00",
+            "autopush": "No"
+        },
+        "RESERVA FUENCARRAL": {
+            "extensible": false,
+            "autolocation": true,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "06:00",
+            "extra_days_arrival": "",
+            "arrival_time": "23:59",
+            "duration": 24.0,
+            "start": 6.0,
+            "end": 23.983333333333334,
+            "origin": "",
+            "destiny": "",
+            "color": "#ff93c9",
+            "autopush": "No"
+        },
+        "RESERVA": {
+            "extensible": true,
+            "autolocation": true,
+            "km": 0,
+            "forced": "",
+            "bans": [
+                ""
+            ],
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": "",
+            "start": null,
+            "end": null,
+            "origin": "",
+            "destiny": "",
+            "color": "#f9f048",
+            "autopush": "No"
+        }
+    },
+    "M": {
+        "IS - STC": {
+            "extensible": true,
+            "kmlimit": 7200,
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": "",
+            "start": null,
+            "end": null,
+            "name": "IS - STC",
+            "autopush": "No"
+        }
+    },
+    "T": {
+        "WC": {
+            "extensible": true,
+            "autolocation": true,
+            "km": 0,
+            "to_from_depot": "",
+            "transfertype": true,
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": "",
+            "start": null,
+            "end": null,
+            "depot": "",
+            "color": "#ff80c0",
+            "autopush": "No"
+        },
+        "CH-PA": {
+            "extensible": false,
+            "autolocation": false,
+            "km": 83,
+            "to_from_depot": "From Depot",
+            "transfertype": false,
+            "departure_time": "",
+            "extra_days_arrival": "",
+            "arrival_time": "",
+            "duration": 0.3,
+            "start": null,
+            "end": null,
+            "depot": "CHAMARTIN",
+            "color": "#6d6d6d",
+            "name": "CH-PA",
+            "autopush": "No"
+        },
+        "PA-CH": {
+            "extensible": false,
+            "autolocation": false,
+            "km": 86,
+            "to_from_depot": "To Depot",
+            "transfertype": false,
+            "departure_time": "06:00",
+            "extra_days_arrival": "",
+            "arrival_time": "06:30",
+            "duration": 0.5,
+            "start": 6.0,
+            "end": 6.5,
+            "depot": "CHAMARTIN",
+            "color": "#6d6d6d",
+            "autopush": "No"
+        }
+    }
+}
